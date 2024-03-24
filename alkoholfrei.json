@@ -1,0 +1,29 @@
+[
+    {
+        "productName": "Caipirinha ⁽¹ ¹¹⁾",
+        "ltr": "0,40l",
+        "price": "8,00€"
+      },
+
+      {
+        "productName": "Virgin Caipirinha ⁽¹ ¹¹⁾",
+        "ltr": "0,40l",
+        "price": "6,50€"
+      },
+
+      {
+        "productName": "Lillet ⁽⁵ ¹¹⁾",
+        "ltr": "0,20l",
+        "price": "5,50€"
+      },
+          {
+        "productName": "Hugo ⁽⁵ ¹¹⁾",
+        "ltr": "0,20l",
+        "price": "5,00€"
+      },
+          {
+        "productName": "Aperol Spritz ⁽¹ ⁵ ¹⁴⁾",
+        "ltr": "0,20l",
+        "price": "5,00€"
+      }
+]

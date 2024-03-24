@@ -1,0 +1,38 @@
+[
+    {
+        "productName": "Vodka",
+        "ltr": "2cl",
+        "price": "3,00€"
+      },
+      {
+        "productName": "Schliwowitz (Rakija)",
+        "ltr": "2cl",
+        "price": "3,00€"
+      },
+      {
+        "productName": "Ficken ⁽¹⁾",
+        "ltr": "2cl",
+        "price": "3,00€"
+      },
+        {
+        "productName": "Erdbeerlime ⁽¹⁾",
+        "ltr": "2cl",
+        "price": "3,00€"
+      },
+        {
+        "productName": "Ouzo",
+        "ltr": "2cl",
+        "price": "3,00€"
+      },
+        {
+        "productName": "Jagermeister",
+        "ltr": "2cl",
+        "price": "3,00€"
+      }, 
+        {
+        "productName": "Absinth 66 ⁽¹⁾",
+        "ltr": "2cl",
+        "price": "3,00€"
+      }
+        
+]

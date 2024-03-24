@@ -1,0 +1,110 @@
+[
+    {"productName": "Coca Cola ⁽¹ ¹¹ ¹³⁾",
+        "ltr": "0,20l",
+        "price": "3,20€"
+    },
+      {"productName": "Coca Cola Zero ⁽¹ ⁸ ⁹ ¹¹ ¹³⁾",
+        "ltr": "0,20l",
+        "price": "3,20€"
+      },
+      {
+        "productName": "Mezzo Mix ⁽¹ ⁸ ¹¹ ¹³⁾",
+        "ltr": "0,20l",
+        "price": "3,20€"
+      },
+      {
+        "productName": "Sprite ⁽¹¹⁾",
+        "ltr": "0,20l",
+        "price": "3,20€"
+      },
+      {
+        "productName": "Orangina Original / Rouge ⁽¹⁾",
+        "ltr": "0,25l",
+        "price": "3,50€"
+      },
+    {
+        "productName": "Pipi Limonade ⁽¹ ² ³ ¹¹⁾ (Balkan Orangen-Limonade)",
+        "ltr": "0,25l",
+        "price": "3,50€"
+      },
+     {
+        "productName": "Cockta ⁽¹ ² ¹¹⁾ (Balkan Cola)",
+        "ltr": "0,33l",
+        "price": "3,90€"
+      },
+ {
+        "productName": "Cedevita Zitrone/Limette/Orange ⁽¹ ¹¹⁾", 
+        "ltr": "0,40l",
+        "price": "3,00€"
+      },
+    {
+        "productName": "Elephant Bay Ice Tea ⁽³ ¹¹⁾", 
+        "ltr": "0,33l",
+        "price": "3,90€" 
+}, 
+{
+        "productName": "Elephant Bay Limonade (Exotic, Pink Melo, Minze & Limette) ⁽³ ¹¹⁾", 
+        "ltr": "0,33l",
+        "price": "3,90€"
+      },
+{
+        "productName": "VIO Apfelschorle", 
+        "ltr": "0,30l",
+        "price": "3,60€"
+      },
+      {
+        "productName": "RedBull ⁽¹ ¹¹ ¹² ¹³⁾",
+        "ltr": "0,25l",
+        "price": "3,90€"
+      },
+    {
+        "productName": "RedBull White/Yellow/Blue/Green ⁽¹ ¹¹ ¹² ¹³⁾",
+        "ltr": "0,25l",
+        "price": "3,90€"
+      },
+      {
+        "productName": "RedBull Sugarfree ⁽¹ ⁸ ⁹ ¹¹ ¹² ¹³⁾",
+        "ltr": "0,25l",
+        "price": "3,90€"
+      },
+      {
+        "productName": "28 Black ⁽¹ ¹¹ ¹³⁾",
+        "ltr": "0,25l",
+        "price": "3,90€"
+      },
+      {
+        "productName": "Moloko ⁽³ ¹¹ J⁾",
+        "ltr": "0,25l",
+        "price": "3,90€"
+      },
+    {
+        "productName": "Moloko Sugarfree ⁽³ ¹¹ J⁾",
+        "ltr": "0,25l",
+        "price": "3,90€"
+      },
+{
+        "productName": "Moloko Cranberry ⁽³ ¹¹ J⁾",
+        "ltr": "0,25l",
+        "price": "3,90€"
+      },
+       {
+        "productName": "Guarana ⁽¹ ¹¹ ¹² ¹³⁾ (Balkan Energy Drink)",
+        "ltr": "0,25l",
+        "price": "3,90€"
+      },
+     {
+        "productName": "Schweppes Tonic ⁽¹¹ ¹⁴⁾",
+        "ltr": "0,20l",
+        "price": "3,00€"
+      },
+      {
+        "productName": "Schweppes Wildberry ⁽¹¹⁾",
+        "ltr": "0,20l",
+        "price": "3,00€"
+      },
+      {
+        "productName": "Teinacher Wasser Medium/Still",
+        "ltr": "0,25l",
+        "price": "2,80€"
+      }
+]

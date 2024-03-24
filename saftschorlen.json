@@ -1,0 +1,27 @@
+[
+        {
+        "productName": "VIO Apfelschorle", 
+        "ltr": "0,30l",
+        "price": "3,60€"
+      },
+    {
+        "productName": "Bananensaft ⁽¹¹⁾",
+        "ltr": "0,40l",
+        "price": "3,80€"
+      },    
+    {
+        "productName": "Kirschsaft ⁽¹¹⁾",
+        "ltr": "0,40l",
+        "price": "3,80€"
+      },    
+    {
+        "productName": "Kirschsaftschorle ⁽¹¹⁾",
+        "ltr": "0,40l",
+        "price": "3,60€"
+      },    
+    {
+        "productName": "KiBa ⁽¹¹⁾",
+        "ltr": "0,40l",
+        "price": "3,80€"
+      }      
+]

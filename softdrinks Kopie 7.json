@@ -1,0 +1,19 @@
+[
+    {
+        "productName": "Coca Cola",
+        "ltr": 0.25,
+        "price": "3,10€"
+      },
+
+      {
+        "productName": "Fanta - Mezzo - Sprite⁰",
+        "ltr": 0.25,
+        "price": "3,10€"
+      },
+
+      {
+        "productName": "Schwarze Dose Spezial",
+        "ltr": 0.33,
+        "price": "3,10€"
+      }
+]

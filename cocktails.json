@@ -1,0 +1,27 @@
+[
+      {
+        "productName": "Lillet ⁽⁵ ¹¹⁾",
+        "ltr": "0,20l",
+        "price": "6,00€"
+      },
+          {
+        "productName": "Hugo ⁽⁵ ¹¹⁾",
+        "ltr": "0,20l",
+        "price": "6,00€"
+      },
+          {
+        "productName": "Aperol Spritz ⁽¹ ⁵ ¹⁴⁾",
+        "ltr": "0,20l",
+        "price": "6,00€"
+      },
+         {
+        "productName": "Deja Vu ⁽¹ ⁵ ¹⁴⁾",
+        "ltr": "0,20l",
+        "price": "6,00€"
+      },    
+     {
+        "productName": "Ramazzotti Aperitivo Rosato ⁽¹ ⁵ ¹⁴⁾",
+        "ltr": "0,20l",
+        "price": "5,00€"
+      }
+]

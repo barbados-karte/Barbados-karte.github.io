@@ -1,0 +1,36 @@
+[
+    {
+        "productName": "Jacky Cola ⁽¹ ¹¹ ¹³⁾",
+        "ltr": "4cl",
+        "price": "7,00€"
+      },
+    {
+        "productName": "Vodka Bull ⁽¹ ¹¹ ¹² ¹³⁾",
+        "ltr": "4cl",
+        "price": "7,00€"
+      },    {
+        "productName": "Gin Tonic ⁽¹¹ ¹⁴⁾",
+        "ltr": "4cl",
+        "price": "7,00€"
+      },    {
+        "productName": "Bacardi Cola ⁽¹ ¹¹ ¹³⁾",
+        "ltr": "4cl",
+        "price": "7,00€"
+      },    {
+        "productName": "Captain Morgan Cola ⁽¹ ¹¹ ¹³⁾",
+        "ltr": "4cl",
+        "price": "7,00€"
+      },    {
+        "productName": "Jagermeister Bull ⁽¹ ¹¹ ¹² ¹³⁾",
+        "ltr": "4cl",
+        "price": "7,00€"
+      },    {
+        "productName": "Havana Rum Cola ⁽¹ ¹¹ ¹³⁾",
+        "ltr": "4cl",
+        "price": "7,00€"
+      },    {
+        "productName": "Johnnie Walker Cola ⁽¹ ¹¹ ¹³⁾",
+        "ltr": "4cl",
+        "price": "7,00€"
+      }
+]

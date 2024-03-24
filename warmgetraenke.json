@@ -1,0 +1,46 @@
+[
+    {
+        "productName": "LOFTEA - ELLI ERDBEERE (Erdbeere & Papaya)",
+        "price": "4,00€"
+      }, 
+        {
+        "productName": "LOFTEA - Mango & Orange",
+        "price": "4,00€"
+      }, 
+        {
+        "productName": "LOFTEA - Tutti Frutti (Waldbeeren & Aprikose)",
+        "price": "4,00€"
+      },     
+    {
+        "productName": "LOFTEA - Zitrone & Hanf",
+        "price": "4,00€"
+      },     
+    {
+        "productName": "LOFTEA - Apfel & Zimt",
+        "price": "4,00€"
+     },    
+    {
+        "productName": "LOFTEA - Kamille",
+     "price": "4,00€"
+      }, 
+    {
+        "productName": "Kaffee ⁽¹³⁾",
+        "price": "2,80€"
+      },
+    {
+        "productName": "Cappuccino ⁽¹³⁾",
+        "price": "3,60€"
+      },
+    {
+        "productName": "Espresso ⁽¹³⁾",
+        "price": "2,20€"
+      }, 
+        {
+        "productName": "Latte Macchiato ⁽¹³ C⁾",
+        "price": "3,80€"
+      },
+        {
+        "productName": "Heisse Schockolade ⁽C⁾",
+        "price": "3,60€"
+      }
+]

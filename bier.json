@@ -1,0 +1,22 @@
+[
+{ 
+        "productName": "Desperados ⁽³ ¹¹ J⁾",
+        "ltr": "0,33l",
+        "price": "3,80€"
+   }, 
+      {
+        "productName": "Heineken ⁽J⁾",
+        "ltr": "0,33l",
+        "price": "3,80€"
+      },
+         {
+        "productName": "Jelen ⁽J⁾ (Serbian Beer)",
+        "ltr": "0,33l",
+        "price": "3,80€"
+                 },
+         {
+        "productName": "Karlovačko ⁽J⁾ (Croatian Beer)",
+        "ltr": "0,33l",
+        "price": "3,80€"
+      }
+]
