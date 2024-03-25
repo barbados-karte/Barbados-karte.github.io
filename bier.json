@@ -1,22 +1,22 @@
 [
 { 
-        "productName": "Desperados ⁽³ ¹¹ J⁾",
+        "productName": "Corona ⁽³ ¹¹ J⁾",
         "ltr": "0,33l",
-        "price": "3,80€"
+        "price": "5,30€"
    }, 
       {
-        "productName": "Heineken ⁽J⁾",
-        "ltr": "0,33l",
-        "price": "3,80€"
+        "productName": "Stuttgarter Hofbräu Pils ⁽J⁾",
+        "ltr": "0,5l",
+        "price": "5,00€"
       },
          {
-        "productName": "Jelen ⁽J⁾ (Serbian Beer)",
-        "ltr": "0,33l",
-        "price": "3,80€"
+        "productName": "Schönbuch Hefe ⁽J⁾",
+        "ltr": "0,5l",
+        "price": "5,00€"
                  },
          {
-        "productName": "Karlovačko ⁽J⁾ (Croatian Beer)",
-        "ltr": "0,33l",
-        "price": "3,80€"
+        "productName": "Radler ⁽J⁾",
+        "ltr": "0,5l",
+        "price": "5,00€"
       }
 ]
