@@ -1,32 +1,17 @@
 [
     {
         "productName": "Holunder ⁽¹¹⁾",
-        "ltr": "0,40l",
+        "ltr": "0,30l",
         "price": "3,80€"
       },
     {
-        "productName": "Brombeere",
-        "ltr": "0,40l",
-        "price": "3,80€"
-      },    
-    {
-        "productName": "Erdbeere ⁽¹ ¹¹⁾",
-        "ltr": "0,40l",
+        "productName": "Limette Minze",
+        "ltr": "0,30l",
         "price": "3,80€"
       },    
     {
         "productName": "Himbeere",
-        "ltr": "0,40l",
-        "price": "3,80€"
-      },    
-    {
-        "productName": "Johannisbeere",
-        "ltr": "0,40l",
-        "price": "3,80€"
-      },    
-    {
-        "productName": "Heidelbeere",
-        "ltr": "0,40l",
+        "ltr": "0,30l",
         "price": "3,80€"
       },
         {
