@@ -1,22 +1,18 @@
 [
     {
-        "productName": "Sucuk Baguette ⁽A,B,C,D,E,F,G,H⁾",
-        "price": "6,50€"
+        "productName": "Sucuk Toastie ⁽A,B,C,D,E,F,G,H⁾",
+        "price": "7,20€"
       },
         {
-        "productName": "Putenbrust Baguette ⁽A,B,C,E,H,I⁾",
-        "price": "6,50€"
-      },
-        {
-        "productName": "Putensalami Baguette ⁽A,B,C,D,E,F,G,H,I⁾",
-        "price": "6,50€"
+        "productName": "Käse Toastie ⁽A,B,C,E,H,I⁾",
+        "price": "6,90€"
       },
     {
-        "productName": "Nachos-Eimer + Dip",
-        "price": "4,00€"
+        "productName": "Nachos + Dips",
+        "price": "6,90€"
       },   
                    {
-        "productName": "Nüsse versch. Sorten",
-        "price": "2,50€"
+        "productName": "Popcorn süß",
+        "price": "4,90€"
       }  
 ]
