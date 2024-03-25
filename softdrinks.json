@@ -1,106 +1,37 @@
 [
-    {"productName": "Coca Cola ⁽¹ ¹¹ ¹³⁾",
+    {
+        "productName": "Coca Cola ⁽¹ ¹¹ ¹³⁾",
         "ltr": "0,33l",
         "price": "4,30€"
     },
-      {"productName": "Coca Cola Zero ⁽¹ ⁸ ⁹ ¹¹ ¹³⁾",
+    {
+        "productName": "Coca Cola Zero ⁽¹ ⁸ ⁹ ¹¹ ¹³⁾",
         "ltr": "0,33l",
         "price": "4,30€"
-      },
-      {
+    },
+    {
         "productName": "Mezzo Mix ⁽¹ ⁸ ¹¹ ¹³⁾",
         "ltr": "0,33l",
         "price": "4,30€"
-      },
-      {
+    },
+    {
         "productName": "Sprite ⁽¹¹⁾",
         "ltr": "0,33l",
         "price": "4,30€"
-      },
-
-     {
+    },
+    {
         "productName": "Fanta ⁽¹ ⁸ ¹¹ ¹³⁾",
         "ltr": "0,33l",
         "price": "4,30€"
-      
- {
+    },
+    {
         "productName": "Cedevita Zitrone/Limette/Orange ⁽¹ ¹¹⁾", 
         "ltr": "0,40l",
         "price": "3,00€"
-      },
-    {
-        "productName": "Elephant Bay Ice Tea ⁽³ ¹¹⁾", 
-        "ltr": "0,33l",
-        "price": "4,50€" 
-}, 
-{
-        "productName": "Elephant Bay Limonade (Exotic, Pink Melo, Minze & Limette) ⁽³ ¹¹⁾", 
-        "ltr": "0,33l",
-        "price": "3,90€"
-      },
-{
-        "productName": "Apfelschorle", 
-        "ltr": "0,30l",
-        "price": "4,10€"
-      },
-      {
-        "productName": "RedBull ⁽¹ ¹¹ ¹² ¹³⁾",
-        "ltr": "0,25l",
-        "price": "4,50€"
-      },
-    {
-        "productName": "RedBull White/Blue/Green/Summeredition ⁽¹ ¹¹ ¹² ¹³⁾",
-        "ltr": "0,25l",
-        "price": "4,50€"
-      },
-      {
-        "productName": "RedBull Sugarfree ⁽¹ ⁸ ⁹ ¹¹ ¹² ¹³⁾",
-        "ltr": "0,25l",
-        "price": "4,50€"
-      },
-      {
-        "productName": "28 Black ⁽¹ ¹¹ ¹³⁾",
-        "ltr": "0,25l",
-        "price": "4,50€"
-      },
-      {
-        "productName": "Moloko ⁽³ ¹¹ J⁾",
-        "ltr": "0,25l",
-        "price": "4,50€"
-      },
-    {
-        "productName": "Moloko on the Rocks mit Limette, Minze, Rohrzucker auf Eis ⁽³ ¹¹ J⁾",
-        "ltr": "0,25l",
-        "price": "5,30€"
-      },
-{
-        "productName": "28 Black on the Rocks mit Limette, Minze, Rohrzucker auf Eis ⁽¹ ¹¹ ¹³⁾",
-        "ltr": "0,25l",
-        "price": "5,30€"
-      },
-       {
-        "productName": "Red Bull on the Rocks mit Limette, Minze, Rohrzucker auf Eis ⁽¹ ⁸ ⁹ ¹¹ ¹² ¹³⁾",
-        "ltr": "0,25l",
-        "price": "5,30€"
-      },
-     {
-        "productName": "Schweppes Tonic ⁽¹¹ ¹⁴⁾",
-        "ltr": "0,20l",
-        "price": "4,20€"
-      },
-      {
-        "productName": "Schweppes Wildberry ⁽¹¹⁾",
-        "ltr": "0,20l",
-        "price": "4,20€"
-      },
-      {
-        "productName": "Teinacher Wasser Leise/ Laut",
-        "ltr": "0,75l",
-        "price": "7,00€"
-      },
+    },
     {
         "productName": "Teinacher Wasser Leise/ Laut",
         "ltr": "0,3l",
         "price": "2,90€"
-      }
+    }
 ]
