@@ -5,17 +5,17 @@
         "price": "4,10€"
       },
     {
-        "productName": "Limette Minze S",
+        "productName": "Limette Minze Schorle",
         "ltr": "0,30l",
         "price": "4,10€"
       },    
     {
-        "productName": "Himbeere",
+        "productName": "Himbeere Schorle",
         "ltr": "0,30l",
         "price": "4,10€"
       },
         {
-        "productName": "Maracuja ⁽¹⁾",
+        "productName": "Maracuja Schorle ⁽¹⁾",
         "ltr": "0,30l",
         "price": "4,10€"
       },
@@ -26,6 +26,11 @@
       },    
     {
         "productName": "Kirschsaft ⁽¹¹⁾",
+        "ltr": "0,30l",
+        "price": "4,30€"
+      },
+    {
+        "productName": "Orangensaft ⁽¹¹⁾",
         "ltr": "0,30l",
         "price": "4,30€"
       },    
