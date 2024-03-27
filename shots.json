@@ -2,37 +2,37 @@
     {
         "productName": "Vodka",
         "ltr": "2cl",
-        "price": "3,00€"
+        "price": "3,50€"
       },
       {
-        "productName": "Schliwowitz (Rakija)",
+        "productName": "Raki",
         "ltr": "2cl",
-        "price": "3,00€"
+        "price": "3,50€"
       },
       {
-        "productName": "Ficken ⁽¹⁾",
+        "productName": "Tequila ⁽¹⁾",
         "ltr": "2cl",
-        "price": "3,00€"
+        "price": "3,50€"
       },
         {
         "productName": "Erdbeerlime ⁽¹⁾",
         "ltr": "2cl",
-        "price": "3,00€"
+        "price": "3,50€"
       },
         {
-        "productName": "Ouzo",
+        "productName": "Chivas",
         "ltr": "2cl",
-        "price": "3,00€"
+        "price": "5,50€"
       },
         {
         "productName": "Jagermeister",
         "ltr": "2cl",
-        "price": "3,00€"
+        "price": "3,50€"
       }, 
         {
-        "productName": "Absinth 66 ⁽¹⁾",
+        "productName": "Jack Daniels ⁽¹⁾",
         "ltr": "2cl",
-        "price": "3,00€"
+        "price": "3,50€"
       }
         
 ]
