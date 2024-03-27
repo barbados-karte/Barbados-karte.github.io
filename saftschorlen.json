@@ -1,27 +1,42 @@
 [
-        {
-        "productName": "VIO Apfelschorle", 
+    {
+        "productName": "Holunder Schorle ⁽¹¹⁾",
         "ltr": "0,30l",
-        "price": "3,60€"
+        "price": "4,10€"
+      },
+    {
+        "productName": "Limette Minze S",
+        "ltr": "0,30l",
+        "price": "4,10€"
+      },    
+    {
+        "productName": "Himbeere",
+        "ltr": "0,30l",
+        "price": "4,10€"
+      },
+        {
+        "productName": "Maracuja ⁽¹⁾",
+        "ltr": "0,30l",
+        "price": "4,10€"
       },
     {
         "productName": "Bananensaft ⁽¹¹⁾",
-        "ltr": "0,40l",
-        "price": "3,80€"
+        "ltr": "0,30l",
+        "price": "4,30€"
       },    
     {
         "productName": "Kirschsaft ⁽¹¹⁾",
-        "ltr": "0,40l",
-        "price": "3,80€"
+        "ltr": "0,30l",
+        "price": "4,30€"
       },    
     {
-        "productName": "Kirschsaftschorle ⁽¹¹⁾",
-        "ltr": "0,40l",
-        "price": "3,60€"
+        "productName": "Fruchtsaftschorle ⁽¹¹⁾",
+        "ltr": "0,30l",
+        "price": "4,10€"
       },    
     {
         "productName": "KiBa ⁽¹¹⁾",
-        "ltr": "0,40l",
-        "price": "3,80€"
+        "ltr": "0,30l",
+        "price": "4,30€"
       }      
 ]
