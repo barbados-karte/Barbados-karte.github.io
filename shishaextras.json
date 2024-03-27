@@ -1,10 +1,14 @@
 [
     {
         "productName": "Kopfwechsel Orientalisch",
-        "price": "9,00€"
+        "price": "10,00€"
       },
         {
-       "productName": "Kopfwechsel Modern",
-        "price": "9,00€"
+       "productName": "auf Alu-Folie",
+        "price": "1,50€"
+      },
+        {
+       "productName": "Milch-Bowl",
+        "price": "1,50€"
       }
 ]
