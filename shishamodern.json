@@ -1,36 +1,49 @@
 [
      {
-        "productName": "187-Tabak",
-        "ltr": "25g",
-        "price": "18,00€"
+        "productName": "187-Hamburg",
+        "price": "14,90€"
       },
      {
-        "productName": "AQUA MENTHA-Tabak",
-        "ltr": "25g",
-        "price": "18,00€"
+        "productName": "Apfelringe",
+        "price": "14,90€"
+      },
+     {
+        "productName": "Wildberry Chill",
+        "price": "14,90€"
+      },
+     {
+        "productName": "Mama Candy",
+        "price": "14,90€"
+      },
+     {
+        "productName": "187-Juicy Puzzy",
+        "price": "14,90€"
+      },
+     {
+        "productName": "Raporn",
+        "price": "14,90€"
+      },
+     {
+        "productName": "AFRICAN Queen",
+        "price": "14,90€"
       },
     {
-        "productName": "O's-Tabak",
-        "ltr": "20g",
-        "price": "18,00€"
+        "productName": "Moloko",
+        "price": "14,90€"
       },
     {
-        "productName": "AL MASSIVA-Tabak",
-        "ltr": "25g",
-        "price": "18,00€"
+        "productName": "069",
+        "price": "14,90€"
       },
 {
-        "productName": "HOLISTER-Tabak",
-        "ltr": "20g",
-        "price": "18,00€"
+        "productName": "KIWI PUNCH",
+        "price": "14,90€"
       },
 {
-        "productName": "DSCHINNI-Tabak",
-        "ltr": "25g",
-        "price": "18,00€"
+        "productName": "ICE Kaktuz",
+        "price": "14,90€"
       },     {
         "productName": "Und viele mehr...",
-        "ltr": "20g",
-        "price": "18,00€"
+        "price": "14,90€"
       }
 ]
