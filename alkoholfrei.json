@@ -1,29 +1,21 @@
 [
     {
-        "productName": "Caipirinha ⁽¹ ¹¹⁾",
-        "ltr": "0,40l",
-        "price": "8,00€"
+        "productName": "Virgin Mojito ⁽¹ ¹¹⁾",
+        "price": "7,90€"
       },
 
       {
-        "productName": "Virgin Caipirinha ⁽¹ ¹¹⁾",
-        "ltr": "0,40l",
-        "price": "6,50€"
+        "productName": "Coconut Kiss ⁽¹ ¹¹⁾",
+        "price": "7,90€"
       },
 
       {
-        "productName": "Lillet ⁽⁵ ¹¹⁾",
-        "ltr": "0,20l",
-        "price": "5,50€"
+        "productName": "Safer Sex ⁽⁵ ¹¹⁾",
+        "price": "7,90€"
       },
           {
-        "productName": "Hugo ⁽⁵ ¹¹⁾",
+        "productName": "Tropical Island - Passionsfrucht - Litschi - Limette ⁽⁵ ¹¹⁾",
         "ltr": "0,20l",
-        "price": "5,00€"
-      },
-          {
-        "productName": "Aperol Spritz ⁽¹ ⁵ ¹⁴⁾",
-        "ltr": "0,20l",
-        "price": "5,00€"
+        "price": "7,90€"
       }
 ]
