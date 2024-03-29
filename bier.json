@@ -18,5 +18,10 @@
         "productName": "Radler ⁽¹¹ J⁾",
         "ltr": "0,5l",
         "price": "5,00€"
-      }
+      },
+        {
+        "productName": "Cola Weizen ⁽J⁾",
+        "ltr": "0,5l",
+        "price": "5,00€"
+      },
 ]
