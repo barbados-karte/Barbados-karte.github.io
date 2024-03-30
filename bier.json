@@ -1,27 +1,27 @@
 [
-{ 
-        "productName": "Corona ⁽³ ¹¹ J⁾",
-        "ltr": "0,33l",
-        "price": "5,30€"
-   }, 
-      {
-        "productName": "Stuttgarter Hofbräu Pils ⁽J⁾",
-        "ltr": "0,5l",
-        "price": "5,00€"
-      },
-         {
-        "productName": "Schönbuch Hefe ⁽J⁾",
-        "ltr": "0,5l",
-        "price": "5,00€"
-                 },
-         {
-        "productName": "Radler ⁽¹¹ J⁾",
-        "ltr": "0,5l",
-        "price": "5,00€"
-      },
-        {
-        "productName": "Cola Weizen ⁽J⁾",
-        "ltr": "0,5l",
-        "price": "5,00€"
-      },
+  { 
+    "productName": "Corona (3 11 J)",
+    "ltr": "0,33l",
+    "price": "5,30€"
+  }, 
+  {
+    "productName": "Stuttgarter Hofbräu Pils (J)",
+    "ltr": "0,5l",
+    "price": "5,00€"
+  },
+  {
+    "productName": "Schönbuch Hefe (J)",
+    "ltr": "0,5l",
+    "price": "5,00€"
+  },
+  {
+    "productName": "Radler (11 J)",
+    "ltr": "0,5l",
+    "price": "5,00€"
+  },
+  {
+    "productName": "Cola Weizen (J)",
+    "ltr": "0,5l",
+    "price": "5,00€"
+  }
 ]
