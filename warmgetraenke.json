@@ -35,12 +35,28 @@
         "productName": "Espresso ⁽¹³⁾",
         "price": "2,30€"
       }, 
+    {
+        "productName": "Espresso Macchiato⁽¹³⁾",
+        "price": "2,80€"
+      },
         {
         "productName": "Latte Macchiato ⁽¹³ C⁾",
         "price": "4,50€"
       },
         {
+        "productName": "Chai Latte ⁽¹³ C⁾",
+        "price": "4,50€"
+      },
+        {
+        "productName": "Hazelnut Chocolate Latte ⁽¹³ C⁾",
+        "price": "4,90€"
+      },
+        {
         "productName": "Heisse Schockolade mit Sahne ⁽C⁾",
+        "price": "4,50€"
+      },
+        {
+        "productName": "Iced Latte ⁽¹³ C⁾",
         "price": "4,50€"
       }
 ]
