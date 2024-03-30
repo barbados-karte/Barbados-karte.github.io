@@ -25,7 +25,7 @@
       }, 
     {
         "productName": "Kaffee ⁽¹³⁾",
-        "price": "2,80€"
+        "price": "3,20€"
       },
     {
         "productName": "Cappuccino ⁽¹³⁾",
@@ -33,14 +33,14 @@
       },
     {
         "productName": "Espresso ⁽¹³⁾",
-        "price": "2,20€"
+        "price": "2,30€"
       }, 
         {
         "productName": "Latte Macchiato ⁽¹³ C⁾",
-        "price": "3,80€"
+        "price": "4,50€"
       },
         {
-        "productName": "Heisse Schockolade ⁽C⁾",
-        "price": "3,60€"
+        "productName": "Heisse Schockolade mit Sahne ⁽C⁾",
+        "price": "4,50€"
       }
 ]
