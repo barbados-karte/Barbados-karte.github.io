@@ -1,43 +1,42 @@
 [
-      {
-        "productName": "Espresso Martini - Vodka - Kahlua - Espresso ⁽⁵ ¹¹⁾",
-        "price": "8,90€"
-      },
-          {
-        "productName": "Moscow Mule - Vodka - Limette - Ginger Beer ⁽⁵ ¹¹⁾",
-        "price": "9,50€"
-      },
-          {
-        "productName": "Cosmopolitan - Vodka - Cranberry - Cointreau - Limette ⁽¹ ⁵ ¹⁴⁾",
-        "price": "8,90€"
-      },
-
-     {
-        "productName": "Tropical Splash - Vodka - Kokosrum - Litschi - Passionsfrucht ⁽¹ ⁵ ¹⁴⁾",
-        "price": "9,20€"
-      },
-       {
-        "productName": "Long Island Iced Tea - Vodka - Rum, Tequila - Triple Sec - Gin - Lime - Cola ⁽¹ ⁵ ¹⁴⁾",
-        "price": "9,20€"
-      },
-      {
-        "productName": "Mojito - Rum - Rohrzucker - Limette - Minze ⁽¹⁴⁾",
-        "price": "8,90€"
-      },
-      {
-        "productName": "Sex on the Beach - Vodka - Pfirsichlikör - Cranberry ⁽⁵ ¹¹⁾",
-        "price": "8,90€"
-      },
-       {
-        "productName": "Cuba Libre - Rum - Limette - Cola ⁽¹ ⁵⁾",
-        "price": "8,90€"
-      },
-      {
-        "productName": "Pina Colada - Rum - Kokos - Ananas - Orange - Sahne ⁽¹ ⁵⁾",
-        "price": "8,90€"
-      },
-      {
-        "productName": "Tequila Sunrise - Tequila - Orange - Grenadine ⁽¹ ⁵⁾",
-        "price": "8,90€"
-      },
+  {
+    "productName": "Espresso Martini - Vodka - Kahlua - Espresso ⁽⁵ ¹¹⁾",
+    "price": "8,90€"
+  },
+  {
+    "productName": "Moscow Mule - Vodka - Limette - Ginger Beer ⁽⁵ ¹¹⁾",
+    "price": "9,50€"
+  },
+  {
+    "productName": "Cosmopolitan - Vodka - Cranberry - Cointreau - Limette ⁽¹ ⁵ ¹⁴⁾",
+    "price": "8,90€"
+  },
+  {
+    "productName": "Tropical Splash - Vodka - Kokosrum - Litschi - Passionsfrucht ⁽¹ ⁵ ¹⁴⁾",
+    "price": "9,20€"
+  },
+  {
+    "productName": "Long Island Iced Tea - Vodka - Rum, Tequila - Triple Sec - Gin - Lime - Cola ⁽¹ ⁵ ¹⁴⁾",
+    "price": "9,20€"
+  },
+  {
+    "productName": "Mojito - Rum - Rohrzucker - Limette - Minze ⁽¹⁴⁾",
+    "price": "8,90€"
+  },
+  {
+    "productName": "Sex on the Beach - Vodka - Pfirsichlikör - Cranberry ⁽⁵ ¹¹⁾",
+    "price": "8,90€"
+  },
+  {
+    "productName": "Cuba Libre - Rum - Limette - Cola ⁽¹ ⁵⁾",
+    "price": "8,90€"
+  },
+  {
+    "productName": "Pina Colada - Rum - Kokos - Ananas - Orange - Sahne ⁽¹ ⁵⁾",
+    "price": "8,90€"
+  },
+  {
+    "productName": "Tequila Sunrise - Tequila - Orange - Grenadine ⁽¹ ⁵⁾",
+    "price": "8,90€"
+  }
 ]
