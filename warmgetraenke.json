@@ -1,28 +1,20 @@
 [
     {
-        "productName": "LOFTEA - ELLI ERDBEERE (Erdbeere & Papaya)",
-        "price": "4,00€"
+        "productName": "Türkischer Apfeltee",
+        "price": "3,40€"
       }, 
         {
-        "productName": "LOFTEA - Mango & Orange",
-        "price": "4,00€"
+        "productName": "Schwarztee",
+        "price": "3,40€"
       }, 
         {
-        "productName": "LOFTEA - Tutti Frutti (Waldbeeren & Aprikose)",
-        "price": "4,00€"
+        "productName": "Früchtetee",
+        "price": "3,40€"
       },     
     {
-        "productName": "LOFTEA - Zitrone & Hanf",
-        "price": "4,00€"
+        "productName": "Kräutertee",
+        "price": "3,40€"
       },     
-    {
-        "productName": "LOFTEA - Apfel & Zimt",
-        "price": "4,00€"
-     },    
-    {
-        "productName": "LOFTEA - Kamille",
-     "price": "4,00€"
-      }, 
     {
         "productName": "Kaffee ⁽¹³⁾",
         "price": "3,20€"
