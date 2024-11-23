@@ -34,11 +34,6 @@
         "price": "4,50€" 
 }, 
 {
-        "productName": "Elephant Bay Limonade (Exotic, Pink Melo, Minze & Limette) ⁽³ ¹¹⁾", 
-        "ltr": "0,33l",
-        "price": "3,90€"
-      },
-{
         "productName": "Apfelschorle", 
         "ltr": "0,30l",
         "price": "4,10€"
@@ -100,7 +95,7 @@
       },
     {
         "productName": "Teinacher Wasser Leise/ Laut",
-        "ltr": "0,3l",
+        "ltr": "0,2l",
         "price": "2,90€"
       }
 ]
