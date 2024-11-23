@@ -1,37 +1,12 @@
 [
     {
         "productName": "Weisswein ⁽⁵⁾",
-        "ltr": "0,20l",
-        "price": "4,50€"
+        "ltr": "0,25l",
+        "price": "7,00€"
       },
      {
         "productName": "Weissweinschorle sauer ⁽⁵⁾/süß ⁽⁵ ¹¹⁾",
-        "ltr": "0,20l",
-        "price": "4,00€"
-      },
-     {
-        "productName": "Rosè ⁽⁵⁾",
-        "ltr": "0,20l",
-        "price": "4,50€"
-      },
-     {
-        "productName": "Rosèschorle sauer ⁽⁵⁾/süß ⁽⁵ ¹¹⁾",
-        "ltr": "0,20l",
-        "price": "4,00€"
-      },
-     {
-        "productName": "Prosecco ⁽⁵⁾",
-        "ltr": "0,20l",
-        "price": "4,00€"
-      }, 
-    {
-        "productName": "Scavy & Ray Prosecco ⁽⁵⁾",
-        "ltr": "0,75l",
-        "price": "45,00€"
-      }, 
-    {
-        "productName": "MOET Ice Imperial ⁽⁵⁾",
-        "ltr": "0,75l",
-        "price": "100,00€"
+        "ltr": "0,25l",
+        "price": "6,50€"
       }
 ]
