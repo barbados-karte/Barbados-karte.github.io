@@ -1,28 +1,18 @@
 [
     {
         "productName": "Jack Daniel's",
-        "ltr": "5,00€ (2cl)",
-        "price": "6,50€ (4cl)"
-      },
-     {
-        "productName": "Jack Daniel's Honey ⁽¹⁾",
-        "ltr": "5,00€ (2cl)",
+        "ltr": "3,50€ (2cl)",
         "price": "6,50€ (4cl)"
       },
     {
-        "productName": "Henessy",
-        "ltr": "5,00€ (2cl)",
-        "price": "6,50€ (4cl)"
-      },
-    {
-        "productName": "Johnnie Walker Red Label ⁽¹⁾",
-        "ltr": "5,00€ (2cl)",
-        "price": "6,50€ (4cl)"
+        "productName": "Chivas ⁽¹⁾",
+        "ltr": "5,50€ (2cl)",
+        "price": "8,50€ (4cl)"
       },
     {
         "productName": "Ballantines",
         "ltr": "5,00€ (2cl)",
-        "price": "6,50€ (4cl)"
+        "price": "7,50€ (4cl)"
       }
 
 ]
