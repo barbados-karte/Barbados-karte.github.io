@@ -2,53 +2,69 @@
     {
         "productName": "Türkischer Apfeltee",
         "price": "3,50€"
-      }, 
-        {
+    },
+    {
         "productName": "Schwarztee",
         "price": "3,50€"
-      }, 
-        {
+    },
+    {
         "productName": "Früchtetee",
         "price": "3,50€"
-      },     
+    },
     {
         "productName": "Kräutertee",
         "price": "3,50€"
-      },     
+    },
     {
         "productName": "Kaffee ⁽¹³⁾",
-        "price": "3,60€"
-      },
+        "price": "3,40€"
+    },
     {
         "productName": "Cappuccino ⁽¹³⁾",
         "price": "3,80€"
-      },
+    },
     {
         "productName": "Espresso ⁽¹³⁾",
-        "price": "2,40€"
-      }, 
+        "price": "2,60€"
+    },
     {
-        "productName": "Espresso Macchiato⁽¹³⁾",
-        "price": "2,90€"
-      },
-        {
+        "productName": "Doppelter Espresso ⁽¹³⁾",
+        "price": "3,80€"
+    },
+    {
         "productName": "Latte Macchiato ⁽¹³ C⁾",
-        "price": "4,60€"
-      },
-        {
+        "price": "4,50€"
+    },
+    {
         "productName": "Chai Latte ⁽¹³ C⁾",
         "price": "4,90€"
-      },
-        {
+    },
+    {
         "productName": "Hazelnut Chocolate Latte ⁽¹³ C⁾",
         "price": "4,90€"
-      },
-        {
-        "productName": "Heisse Schockolade mit Sahne ⁽C⁾",
+    },
+    {
+        "productName": "Heisse Schokolade mit Sahne ⁽C⁾",
         "price": "4,90€"
-      },
-        {
+    },
+    {
         "productName": "Iced Latte ⁽¹³ C⁾",
         "price": "4,90€"
-      }
+    },
+    {
+        "productName": "Honig",
+        "price": "0,50€"
+    },
+    {
+        "productName": "Limette",
+        "price": "0,50€"
+    },
+    {
+        "productName": "Minze",
+        "price": "0,50€"
+    },
+    {
+        "productName": "Flavour shots Caramel / Vanille / Haselnuss",
+        "price": "0,50€"
+    }
 ]
